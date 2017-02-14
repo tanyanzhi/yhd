@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Microsoft YaHei";
+  src: url("Microsoft YaHei.woff2") format("woff2"),
+       url("Microsoft YaHei.woff") format("woff"),
+       url("Microsoft YaHei.ttf") format("truetype"),
+       url("Microsoft YaHei.eot") format("embedded-opentype"),
+       url("Microsoft YaHei.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
